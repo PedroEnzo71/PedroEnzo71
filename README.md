@@ -1,5 +1,5 @@
 Pedro Enzo
-Cursando Ciência da Computação
+Estudante da Instituição UNICEUB Cursando Ciência da Computação
 
 <a href="https://github.com/PedroEnzo71/Projetos_Atividades-Praticas-em-Linguagem-C"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
 <a href="https://github.com/PedroEnzo71/github-page/blob/main/index.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a>&nbsp;&nbsp;
