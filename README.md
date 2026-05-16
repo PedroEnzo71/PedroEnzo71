@@ -7,4 +7,4 @@ Estudante da Instituição UNICEUB Cursando Ciência da Computação
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/pedro-enzo-martins-clemente-798849404"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/pedro-enzo-a5478b3b4"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a>
